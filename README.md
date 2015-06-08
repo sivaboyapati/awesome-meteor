@@ -18,6 +18,7 @@ A curated list of awesome Meteor Packages, libraries and software.
     - [SEO](#seo)
     - [Analytics](#analytics)
     - [ES6](#ES6)
+    - [Cron Jobs](#cron-jobs)
     - [Payments](#payments)
     - [Deployement Tools](#deployement-tools)
     - [FrontEnd Frameworks](#ui-frameworks)
@@ -97,11 +98,18 @@ A curated list of awesome Meteor Packages, libraries and software.
 
 * [Meteor-CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS) - Meteor webbased filesystem handling up and downloads.
 
+## Search sort paginate
+
+*Search sort paginate related tools*
+
+* [tmeasday:publish-counts](https://github.com/percolatestudio/publish-counts) - Publish the count of a cursor, in real time.
+ 
 ## Mobile
 
 *Mobile Developement*
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
+* [raix:push](https://github.com/raix/push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - DDP for clients on Android.
 
@@ -110,6 +118,12 @@ A curated list of awesome Meteor Packages, libraries and software.
 *Analytics*
 
 * [okgrow:analytics](https://github.com/okgrow/analytics/) - Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.
+
+## Cron Jobs
+
+*Cron Jobs in Meteor*
+
+* [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron) - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
 
 ## Degugging Tools
 
@@ -129,6 +143,13 @@ A curated list of awesome Meteor Packages, libraries and software.
 *Scaffolding*
 
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
+
+## UI Frameworks
+
+*Alternative FrontEnd Frameworks to Blaze*
+
+* [React](https://github.com/reactjs/react-meteor) - Working with React and Meteor.
+* [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor.
 
 # Resources
 
